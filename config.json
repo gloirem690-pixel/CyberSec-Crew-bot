@@ -1,0 +1,35 @@
+{
+  "users": {
+    "983406034": {
+      "sudoList": [
+        "243983406034@s.whatsapp.net",
+        "983406034@s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/DigiX.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "⚡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    },
+    "243983406034": {
+      "sudoList": [
+        "243983406034@s.whatsapp.net"
+      ],
+      "tagAudioPath": "tag.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "🎯",
+      "welcome": false,
+      "record": true,
+      "type": false,
+      "publicMode": false
+    }
+  }
+}
